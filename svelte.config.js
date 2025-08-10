@@ -16,9 +16,7 @@ const config = {
 			prerender: {
 				default: true
 			}
-		}),
-		trailingSlash: 'always',
-		prerender: { default: true }
+		})
 	}
 };
 
