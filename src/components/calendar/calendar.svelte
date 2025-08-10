@@ -15,7 +15,7 @@
 	</h1>
 
 	<div class="flex flex-col items-center justify-center">
-		<img src="https://placedog.net/400x200" alt="Djur" />
+		<img src="https://fillmurray.lucidinternets.com/g/400/200" alt="Djur" />
 	</div>
 
 	<p class="text-lg">
